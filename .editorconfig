@@ -41,7 +41,6 @@ indent_style = space
 indent_size = 2
 indent_style = space
 
-
 # confg + cfg
 [*.{conf,cfg}]
 charset                     = UTF-8
